@@ -230,7 +230,7 @@ const ClosingSection: React.FC = () => {
                 textTransform: 'uppercase',
               }}
             >
-              Made with love · Eid 2025
+              Made with love · Eid 2026
             </p>
           </FadeInSection>
         </div>
