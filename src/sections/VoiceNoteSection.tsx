@@ -4,7 +4,7 @@ import FadeInSection from '../components/FadeInSection';
 import { Play, Pause, Mic, Volume2 } from 'lucide-react';
 
 const VoiceNoteSection: React.FC = () => {
-  const audioSrc = "public/audio/eid-message.mp3"; // your static audio file
+  const audioSrc = ".audio/eid-message.mp3"; // your static audio file
   const [isPlaying, setIsPlaying] = useState(false);
   const [progress, setProgress] = useState(0);
   const [duration, setDuration] = useState(0);
